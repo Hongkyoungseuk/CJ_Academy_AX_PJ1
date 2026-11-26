@@ -1,9 +1,9 @@
-# CJ_Academy_PJ1 · 트릭컬 리바이브 주간 공지
+# CJ_Academy_AX_PJ1 · 트릭컬 리바이브 주간 공지
 
 트릭컬 리바이브 공식 카페의 공지를 **업데이트 주기(매주 목요일) 단위로 묶어 핵심 키워드만** 정리한 페이지입니다.
 개인 공부용 비공식 페이지이며, 이미지 저작권은 에피드게임즈에 있습니다.
 
-- 사이트: https://hongkyoungseuk.github.io/CJ_Academy_PJ1/
+- 사이트: https://hongkyoungseuk.github.io/CJ_Academy_AX_PJ1/
 - 출처: https://cafe.naver.com/trickcal
 
 ## 구조
