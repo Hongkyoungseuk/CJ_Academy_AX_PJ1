@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>주간 상세 · 트릭컬 리바이브 주간 공지</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <!-- 목록으로 돌아가는 링크 -->
+    <a class="back" href="index.html">← 목록으로</a>
+    <h1 id="week-title">주간 상세</h1>
+    <p class="sub" id="week-range"></p>
+  </header>
+
+  <main class="container">
+    <!-- 상세 내용: js/week.js가 주소의 ?w=날짜 를 보고 data/날짜.json을 읽어서 채운다 -->
+    <article id="week-detail" class="week-detail" aria-live="polite">
+      <p class="loading">불러오는 중…</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>출처: <a href="https://cafe.naver.com/trickcal" target="_blank" rel="noopener">트릭컬 리바이브 공식 카페</a> · 이미지 저작권은 에피드게임즈에 있습니다.</p>
+    <p>개인 공부용으로 만든 비공식 정리 페이지입니다.</p>
+  </footer>
+
+  <script src="js/common.js"></script>
+  <script src="js/week.js"></script>
+</body>
+</html>
