@@ -7,5 +7,14 @@
     "thumb": "images/2026-11-26/dimension-clash.webp",
     "couponUntil": ["2026-11-26T10:59", "2026-11-12T10:59"],
     "deadline": { "text": "점검 보상 엘리프 600", "until": "2026-12-03T10:59" }
+  },
+  {
+    "id": "2026-11-19",
+    "start": "2026-11-13",
+    "end": "2026-11-19",
+    "keywords": ["아이리스 픽업", "엘프 테마극장", "트릭다이스 BETA", "유령 마을", "거대화 물약"],
+    "thumb": "images/2026-11-19/iris-pickup.webp",
+    "couponUntil": ["2026-11-26T10:59"],
+    "deadline": { "text": "아이리스 픽업 · 테마극장", "until": "2026-12-03T10:59" }
   }
 ]
